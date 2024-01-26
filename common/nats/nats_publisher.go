@@ -1,7 +1,7 @@
 package nats
 
 import (
-	"acc-service/common/saga"
+	"common/common/saga"
 	"github.com/nats-io/nats.go"
 	"log"
 )
