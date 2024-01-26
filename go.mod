@@ -1,4 +1,4 @@
-module common
+module github.com/anna02272/SOA_NoSQL_IB-MRS-2023-2024-common/common
 
 go 1.20
 
