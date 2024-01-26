@@ -1,7 +1,7 @@
 package nats
 
 import (
-	"common/common/saga"
+	"github.com/anna02272/SOA_NoSQL_IB-MRS-2023-2024-common/common/saga"
 	"github.com/nats-io/nats.go"
 	"log"
 )
