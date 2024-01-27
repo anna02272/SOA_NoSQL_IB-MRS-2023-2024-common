@@ -39,9 +39,14 @@ type CreateAccommodationCommandType int8
 
 const (
 	AddAccommodation CreateAccommodationCommandType = iota
+	CancelAccommodation
 	RollbackAccommodation
 	AddAvailability
 	CancelAvailability
+	RollbackAvailability
+	AddRecommendation
+	CancelRecommendation
+	RollbackRecommendation
 	UnknownCommand
 )
 
@@ -58,6 +63,10 @@ const (
 	AccommodationRolledBack
 	AvailabilityAdded
 	AvailabilityNotAdded
+	AvailabilityRolledBack
+	RecommendationAdded
+	RecommendationNotAdded
+	RecommendationRolledBack
 	UnknownReply
 )
 
