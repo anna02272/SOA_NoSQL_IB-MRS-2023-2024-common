@@ -1,3 +1,3 @@
-# SOA_NoSQL_IB-MRS-2023-2024-common
+# Accommodation-Booking-Platform-Gobnb-common
 
-Utils for SOA_NoSQL_IB-MRS-2023-2024 project for NATS messaging
+Utils for https://github.com/anna02272/Accommodation-Booking-Platform-Gobnb project for NATS messaging
